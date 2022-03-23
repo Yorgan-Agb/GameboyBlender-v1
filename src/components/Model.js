@@ -1,11 +1,12 @@
 import React, { useRef } from 'react'
 import { useGLTF } from '@react-three/drei'
+import '../components/Model.css'
 
 export default function Model(props) {
   const group = useRef()
   const { nodes, materials } = useGLTF('/GameBoy.gltf')
   return (
-    <group ref={group} {...props} dispose={null}>
+    <group className='gameBoy' ref={group} {...props} dispose={null}>
       <mesh
         castShadow
         receiveShadow

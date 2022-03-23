@@ -8,7 +8,7 @@ function App() {
   const ref = useRef()
   return (
     <div className='App'>
-      <Canvas shadows dpr={[1, 2]} camera={{ fov: 50 }}>
+      <Canvas shadows dpr={[1, 2]} camera={{ fov: 50 }} height='200px'>
         <Suspense fallback={null}>
           <Stage
             controls={ref}

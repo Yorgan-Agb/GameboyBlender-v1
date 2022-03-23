@@ -9,3 +9,9 @@ html,
 body {
   overflow: hidden;
 }
+
+.App {
+  position: absolute;
+  top: 39%;
+  left: 40%;
+}
