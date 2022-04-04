@@ -14,4 +14,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+  
+  <h2> Dans le répertoire du projet, vous pouvez exécuter : </h2>
+  <li>npm install</li>
+  <li>npm start</li>
+  <p>Ces commandes installent les dépendances et démarrent l'application en mode développement.</p>
 </div>
