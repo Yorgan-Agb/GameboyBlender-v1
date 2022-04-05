@@ -20,4 +20,7 @@
   <li>npm start</li>
   <p>Ces commandes installent les dépendances et démarrent l'application en mode développement.</p>
 </div>
+
+<hr/>
+
 ![0941ffce626adef716bbd63e70fa537b](https://user-images.githubusercontent.com/90197161/161713433-31e55e59-ee03-4b73-af26-263c37c6cea8.png)
